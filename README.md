@@ -34,11 +34,12 @@ high-boost switch \
 
 ## boards arrive
 
-![IMG_4047](https://github.com/jamesharkins/jfet-preamp/assets/34899089/febf4ff2-0947-4625-a48c-b7450d92c9a7)
-![IMG_4020](https://github.com/jamesharkins/jfet-preamp/assets/34899089/c267a714-bec5-4dba-b9fb-5e1c9ea4c0c2)
+<img width="1278" alt="raw-boards" src=https://github.com/jamesharkins/jfet-preamp/assets/34899089/c267a714-bec5-4dba-b9fb-5e1c9ea4c0c2>
 
 ## soldering
 
-![ezgif com-video-to-gif](https://github.com/jamesharkins/jfet-preamp/assets/34899089/f13ab207-cb96-4188-a522-4d0059826320)
+<img width="1278" alt="soldering-gif" src=https://github.com/jamesharkins/jfet-preamp/assets/34899089/f13ab207-cb96-4188-a522-4d0059826320>
 
-![IMG_4047](https://github.com/jamesharkins/jfet-preamp/assets/34899089/42abfcb9-71a1-44a8-b599-2364574e7992)
+<img width="1278" alt="placed-components" src=https://github.com/jamesharkins/jfet-preamp/assets/34899089/febf4ff2-0947-4625-a48c-b7450d92c9a7>
+
+<img width="1278" alt="soldered-boards" src=https://github.com/jamesharkins/jfet-preamp/assets/34899089/42abfcb9-71a1-44a8-b599-2364574e7992>
