@@ -1,23 +1,17 @@
 # jfet-preamp
 jfet-preamp based upon the first 12AX7 stage in a Fender preamp.
 
-# further reading
-http://www.muzique.com/lab/warp.htm \
-https://techdocs.altium.com/display/AMSE/Junction+Field-Effect+Transistor+(JFET)+Model \
-https://www.youtube.com/watch?v=x2CqXhCZNEI \ 
-
-
 # circuitsjs model
-first design \
+first design
 <img width="956" alt="Screen Shot 2023-08-31 at 1 29 23 PM" src="https://github.com/jamesharkins/jfet-preamp/assets/34899089/5cf529aa-e3dc-4b80-9d21-96a10016560b">
 
-high-boost switch \ 
+high-boost switch
 <img width="956" alt="Screen Shot 2023-08-31 at 1 53 00 PM" src="https://github.com/jamesharkins/jfet-preamp/assets/34899089/3e06a9d5-899f-40a9-96a5-6a02bb5af16f">
 
 # breadboard prototype
 
 # pcb design
-\
+
 ## step 1, schematic
 <img width="1859" alt="Screen Shot 2023-08-31 at 2 04 49 PM" src="https://github.com/jamesharkins/jfet-preamp/assets/34899089/a557ac42-e47c-4fa1-aaa0-bbc5c0bdfa71">
 
@@ -43,3 +37,8 @@ high-boost switch \
 <img width="1278" alt="placed-components" src=https://github.com/jamesharkins/jfet-preamp/assets/34899089/febf4ff2-0947-4625-a48c-b7450d92c9a7>
 
 <img width="1278" alt="soldered-boards" src=https://github.com/jamesharkins/jfet-preamp/assets/34899089/42abfcb9-71a1-44a8-b599-2364574e7992>
+
+# further reading
+http://www.muzique.com/lab/warp.htm \
+https://techdocs.altium.com/display/AMSE/Junction+Field-Effect+Transistor+(JFET)+Model \
+https://www.youtube.com/watch?v=x2CqXhCZNEI \ 
